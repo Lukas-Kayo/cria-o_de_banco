@@ -1,2 +1,1 @@
-# cria-o_de_banco
-exercicio de python
+Olá ser humano ! é um prazer ter você por aqui.
